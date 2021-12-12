@@ -140,3 +140,7 @@ body {
     width: 45%;
     height: 2px;
 }
+h4 {
+    color: #fdc731;
+    text-shadow: 3px 3px 4px #695418;
+}
